@@ -1,0 +1,3 @@
+﻿  EncryptGod.cpp
+C:\Users\czzhc\Desktop\AntiAV\ShellCodeLoaderWithRC4AES\EncryptGod\EncryptGod\EncryptGod.cpp(81,92): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+  EncryptGod.vcxproj -> C:\Users\czzhc\Desktop\AntiAV\ShellCodeLoaderWithRC4AES\EncryptGod\x64\Debug\EncryptGod.exe
